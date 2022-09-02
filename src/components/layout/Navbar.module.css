@@ -1,0 +1,34 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    background-color: #ECA297;
+    padding: 1em;
+}
+
+.list{
+    display: flex;
+    list-style: none;
+    align-items: center;
+
+}
+
+.item{
+
+    margin-right: 10px;
+}
+
+.item a{
+    color: white;
+    text-decoration: none;
+}
+
+.item a:hover {
+    color:#E3CAAB;
+}
+
+.itemb{
+    margin-top: 1em;
+    font-family: 'Dancing Script', cursive;
+    font-size: 40px;
+    color: #634E34;
+}

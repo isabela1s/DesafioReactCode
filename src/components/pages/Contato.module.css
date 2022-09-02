@@ -1,0 +1,16 @@
+.contato{
+   
+    display: flex;
+    margin-top: 5em;
+    
+}
+.contatoa{
+    margin-top: 8em;
+    margin-right: 10em;
+
+}
+
+.contatob{
+    
+    list-style: none;
+}
